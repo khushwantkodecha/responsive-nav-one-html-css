@@ -83,7 +83,7 @@ a:hover {
     height: 100vh;
     background: #2c3350;
     top: 80px;
-    /* left: -100%; */
+    left: -100%;
     text-align: center;
     transition: all 0.5s;
   }
